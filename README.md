@@ -4,4 +4,4 @@ Contains All Solved Practical Files (Took up as personal assignment to solve on 
 1. Market Aware Discount Engine
 2. Cashflow Timeline Construction Using Trade Blotter
 3. Broken Date Pricing (Clean vs Dirty Price)
-4. 
+4. Multi-Currency Cashflow Normalization & FX Risk Localization
